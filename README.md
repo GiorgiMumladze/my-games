@@ -4,6 +4,8 @@ A small collection of simple browser games I built just for fun.
 Play instantly — no installs, no setup, just open and enjoy.
 Includes different mini games with clean UI, responsive design, and smooth gameplay.
 
+<== Basically: if you’re bored, this site exists. ==>
+
 #🔗 Live Demo: https://giorgimumladze.github.io/my-games/
 
 
